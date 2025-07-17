@@ -110,7 +110,7 @@ Interactive interface to:
 - Merges uploaded data into a master dataset
 - Prediction runs only on uploaded file
   
-  <img width="1905" height="858" alt="image" src="https://github.com/user-attachments/assets/a2ccd05b-fa76-45bc-8404-224e8f584bdb" />
+<img width="1867" height="816" alt="image" src="https://github.com/user-attachments/assets/8a45ec37-db99-4628-8a00-453cb1955d69" />
 
 
 ## ⚙️ Run Pipeline and Show Results
@@ -122,7 +122,7 @@ Interactive interface to:
 - Accuracy
 - Classification Report
 
-<img width="1869" height="844" alt="image" src="https://github.com/user-attachments/assets/06606e9b-156a-49de-bc3a-346db3369425" />
+<img width="1854" height="826" alt="image" src="https://github.com/user-attachments/assets/1fdf323e-3bc2-4bf8-9377-4d786e7522ed" />
 
 ### Tab 2: Data Analysis
 ##### Charts:
@@ -131,11 +131,14 @@ Interactive interface to:
 - Denial rate (%)
 - Lost revenue by CPT
 
-  <img width="1885" height="898" alt="image" src="https://github.com/user-attachments/assets/fd78821b-2190-4b9a-9ff9-610600fce1d4" />
+<img width="1820" height="851" alt="image" src="https://github.com/user-attachments/assets/5efc40fa-8e0e-496d-ad5a-a96243ec91a9" />
 
 ### Tab 3: Root Cause & Recommendations
 - Lists denial reasons
 - Displays potential causes and recommended fixes
+
+<img width="1729" height="771" alt="image" src="https://github.com/user-attachments/assets/4b9b3707-2352-4f74-8d0d-c8b999d4b2aa" />
+
 
 ---
 
